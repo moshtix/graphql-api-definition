@@ -159,7 +159,7 @@
 </details>
 
 ## Query 
-All queries can be found here (queries are used to read data from the API)
+All queries can be found here (queries are used to read data from the API). Click QueryViewer link below to see a list of all available queries.
 
 <table>
 <thead>
@@ -189,7 +189,7 @@ Roles: everyone.
 </table>
 
 ## Mutation 
-All mutations can be found here (mutations are used to change (mutate) data using the API)
+All mutations can be found here (mutations are used to change (mutate) data using the API). Click MutationViewer link below to see a list of all available mutations.
 
 <table>
 <thead>
